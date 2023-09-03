@@ -17,6 +17,24 @@
         "foto": "https://us-east-1-prod-treinta-assets-bucket.s3.amazonaws.com/stores/060c3f33-bf85-51f4-802e-9f63d0e3f185/product_photos/1682802974200.png",
         "costo": 45.10,
         "descripcion":"Aceite de espectro completo de CBD.Producto natural a base de sacha inchi y cannabis.1000mg/30ml – 33mg/ml Potencia media. (3.3%)Menos de 1% de THC.30ml"
+      },
+         {
+        "titulo": "Aceite de Coco 100ml",
+        "foto": "https://us-east-1-prod-treinta-assets-bucket.s3.amazonaws.com/stores/060c3f33-bf85-51f4-802e-9f63d0e3f185/product_photos/1681061139333.png",
+        "costo": 3.44,
+        "descripcion":"Ingredientes: 100% puro aceite de coco. Prensado en frío. Caducidad: 12 meses Uso cosmético: desmaquillante, cabello Uso en cocina: fritos, postres"
+      },
+      {
+        "titulo": "Aceite Facial Cannabis Herbal 30ml",
+        "foto": "https://us-east-1-prod-treinta-assets-bucket.s3.amazonaws.com/stores/060c3f33-bf85-51f4-802e-9f63d0e3f185/product_photos/1684615155206.png",
+        "costo": 20,
+        "descripcion":"Aceite de CBD, nos ayuda como regenerador celular, gracias a todas las bondades del cannabidol. Además es revitalizador , neuroprotector y sobre todo es antiedad, ideal para pieles maduras y muy resecas, se recomienda su uso exclusivamente en las noches."
+      },
+      {
+        "titulo": "Aya Aceite 1000mg 30ml",
+        "foto": "https://us-east-1-prod-treinta-assets-bucket.s3.amazonaws.com/stores/060c3f33-bf85-51f4-802e-9f63d0e3f185/product_photos/1682802974200.png",
+        "costo": 45.10,
+        "descripcion":"Aceite de espectro completo de CBD.Producto natural a base de sacha inchi y cannabis.1000mg/30ml – 33mg/ml Potencia media. (3.3%)Menos de 1% de THC.30ml"
       }
     ]
   }
