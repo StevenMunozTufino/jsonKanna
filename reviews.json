@@ -1,1 +1,140 @@
-
+{
+    "status": "success",
+    "result": {
+        "data": [
+            {
+                "id": 36497834832930903,
+                "supplier": "google",
+                "reviewer_name": "Memorias del canto campesino",
+                "reviewer_picture_url": "https:\/\/lh3.googleusercontent.com\/a-\/AD_cMMTRheSQNyIdVph9e48WXKSnhDs6IwB215WGNOi2TvW2VQ=s40-c-rp-mo-br100",
+                "rating": 5,
+                "text": "Muy amables, pacientes y atentos, adem\u00e1s bien informados y abastecidos. \u00a1Gracias!",
+                "url": "https:\/\/www.google.com\/maps\/reviews\/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURwanFyS09REAE!2m1!1s0x0:0xe9f3b11f08b30076!3m1!1s2@1:CIHM0ogKEICAgIDpjqrKOQ%7CCgwIpPuPpwYQgIC0vwE%7C?hl=en-US",
+                "title": null,
+                "language": null,
+                "published_at": 1693059976
+            },
+            {
+                "id": 36497834833421683,
+                "supplier": "google",
+                "reviewer_name": "Silvia Correa",
+                "reviewer_picture_url": "https:\/\/lh3.googleusercontent.com\/a-\/AD_cMMQ4hOqUlg261pUoyfM1MvaWe-h830zLEU0SvHOsNy8TLbc=s40-c-rp-mo-br100",
+                "rating": 5,
+                "text": "Pet friendly, muy amables y pacientes los chicos me dieron info de cada producto hasta decidirme, adem\u00e1s que hay tanta variedad para la salud, me encanto   \u2764\ufe0f",
+                "url": "https:\/\/www.google.com\/maps\/reviews\/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNSelp5dXl3RRAB!2m1!1s0x0:0xe9f3b11f08b30076!3m1!1s2@1:CIHM0ogKEICAgICRzZyuywE%7CCgsIo4TCoQYQyMP8Eg%7C?hl=en-US",
+                "title": null,
+                "language": null,
+                "published_at": 1683037576
+            },
+            {
+                "id": 36497834833407314,
+                "supplier": "google",
+                "reviewer_name": "Alfonso Palacios",
+                "reviewer_picture_url": "https:\/\/lh3.googleusercontent.com\/a\/AAcHTtdBtmtAtfXR1XXmGIbvXszagDB8vq24lLLqdmsoqV0u=s40-c-rp-mo-br100",
+                "rating": 5,
+                "text": "Una excelente tienda lo mejor en Cuenca aqu\u00ed pueden encontrar de todo \u2728  ",
+                "url": "https:\/\/www.google.com\/maps\/reviews\/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURScGZ6RXBRRRAB!2m1!1s0x0:0xe9f3b11f08b30076!3m1!1s2@1:CIHM0ogKEICAgIDRpfzEpQE%7CCgwI-oK2ogYQsJ-OgQE%7C?hl=en-US",
+                "title": null,
+                "language": null,
+                "published_at": 1683037576
+            },
+            {
+                "id": 36497835238376096,
+                "supplier": "google",
+                "reviewer_name": "felipe gonzalez",
+                "reviewer_picture_url": "https:\/\/lh3.googleusercontent.com\/a\/AAcHTteVuwLWd28XA-on3BrZdVRfRfKLw5CbjNq39Yy2YOUN=s40-c-rp-mo-br100",
+                "rating": 5,
+                "text": "Excelente servicio y gran variedad de productos relacionados al cannabis, buena gu\u00eda de cada uno de los productos.",
+                "url": "https:\/\/www.google.com\/maps\/reviews\/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSanNpU1p3EAE!2m1!1s0x0:0xe9f3b11f08b30076!3m1!1s2@1:CIHM0ogKEICAgICRjsiSZw%7CCgwI_5iioQYQoKD7wwE%7C?hl=en-US",
+                "title": null,
+                "language": null,
+                "published_at": 1680445576
+            },
+            {
+                "id": 36497835238364750,
+                "supplier": "google",
+                "reviewer_name": "Victor Cobos",
+                "reviewer_picture_url": "https:\/\/lh3.googleusercontent.com\/a-\/AD_cMMQod4Z70mXXwYRNp5VL3TPnbdXgm23XyfOo8s8Vq2xQiew=s40-c-rp-mo-br100",
+                "rating": 5,
+                "text": "Exelente",
+                "url": "https:\/\/www.google.com\/maps\/reviews\/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSanNqQ0NnEAE!2m1!1s0x0:0xe9f3b11f08b30076!3m1!1s2@1:CIHM0ogKEICAgICRjsjCCg%7CCgwIipmioQYQ2LSFuwM%7C?hl=en-US",
+                "title": null,
+                "language": null,
+                "published_at": 1680445576
+            },
+            {
+                "id": 36497835238352272,
+                "supplier": "google",
+                "reviewer_name": "joshua gonzalez",
+                "reviewer_picture_url": "https:\/\/lh3.googleusercontent.com\/a-\/AD_cMMSmJQ-PM0ujnt0JlnBjuveVeXYFC3NPdDbhEB-WV8bGwHMK=s40-c-rp-mo-br100",
+                "rating": 5,
+                "text": "Espectacular producto para las personas que hacemos deporte",
+                "url": "https:\/\/www.google.com\/maps\/reviews\/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSam9UUFl3EAE!2m1!1s0x0:0xe9f3b11f08b30076!3m1!1s2@1:CIHM0ogKEICAgICRjoTPYw%7CCgwI36CioQYQkL_ngwI%7C?hl=en-US",
+                "title": null,
+                "language": null,
+                "published_at": 1680445576
+            },
+            {
+                "id": 36497835238332517,
+                "supplier": "google",
+                "reviewer_name": "Agustin Gonz\u00e1lez",
+                "reviewer_picture_url": "https:\/\/lh3.googleusercontent.com\/a-\/AD_cMMToODDnZ1c9ZLuplX4XA4sWcA6yKF0k90dgaX2daKggITM=s40-c-rp-mo-br100",
+                "rating": 5,
+                "text": "Muy buenos productos y de calidad",
+                "url": "https:\/\/www.google.com\/maps\/reviews\/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSanNUb1pnEAE!2m1!1s0x0:0xe9f3b11f08b30076!3m1!1s2@1:CIHM0ogKEICAgICRjsToZg%7CCgwI7aCioQYQgKPujAE%7C?hl=en-US",
+                "title": null,
+                "language": null,
+                "published_at": 1680445576
+            },
+            {
+                "id": 36497835238310076,
+                "supplier": "google",
+                "reviewer_name": "Pamela Gonzalez",
+                "reviewer_picture_url": "https:\/\/lh3.googleusercontent.com\/a\/AAcHTtcrBoP0iBf98uJUzNJfg8aL3cWq6chxcJTK5FbqqkLq=s40-c-rp-mo-br100",
+                "rating": 5,
+                "text": "Excelentes productos... Recomendado  ",
+                "url": "https:\/\/www.google.com\/maps\/reviews\/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSanNTeGRBEAE!2m1!1s0x0:0xe9f3b11f08b30076!3m1!1s2@1:CIHM0ogKEICAgICRjsSxdA%7CCgwIrKGioQYQgPC8nAM%7C?hl=en-US",
+                "title": null,
+                "language": null,
+                "published_at": 1680445576
+            },
+            {
+                "id": 36497834833473000,
+                "supplier": "google",
+                "reviewer_name": "Alexandra Rojas",
+                "reviewer_picture_url": "https:\/\/lh3.googleusercontent.com\/a\/AAcHTtfEdolZkb0OgWbKXnfSnZW2ujODkTxbbeSiTHdNst5_=s40-c-rp-mo-br100",
+                "rating": 5,
+                "text": "Recomendadisimo",
+                "url": "https:\/\/www.google.com\/maps\/reviews\/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSanNhMVdBEAE!2m1!1s0x0:0xe9f3b11f08b30076!3m1!1s2@1:CIHM0ogKEICAgICRjsa1WA%7CCgwIsMOioQYQ-Pyg6AI%7C?hl=en-US",
+                "title": null,
+                "language": null,
+                "published_at": 1680445576
+            },
+            {
+                "id": 36497834833460977,
+                "supplier": "google",
+                "reviewer_name": "Andr\u00e9s Tixi",
+                "reviewer_picture_url": "https:\/\/lh3.googleusercontent.com\/a-\/AD_cMMQMWvzeh3oTV-NbUq9rvyt_5zLZK75Z2VWRw43dO1e9f6E=s40-c-rp-mo-ba2-br100",
+                "rating": 5,
+                "text": "Tiene productos muy buenos y la atenci\u00f3n es de primera. En definitiva fue una buena experiencia.",
+                "url": "https:\/\/www.google.com\/maps\/reviews\/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSanJHcFRBEAE!2m1!1s0x0:0xe9f3b11f08b30076!3m1!1s2@1:CIHM0ogKEICAgICRjrGpTA%7CCgsIntyioQYQyOrMcQ%7C?hl=en-US",
+                "title": null,
+                "language": null,
+                "published_at": 1680445576
+            }
+        ],
+        "links": {
+            "first": "http:\/\/service-reviews-ultimate.elfsight.com\/data\/reviews?page_length=100&order=date&page=1",
+            "last": null,
+            "prev": null,
+            "next": null
+        },
+        "meta": {
+            "current_page": 1,
+            "from": 1,
+            "path": "http:\/\/service-reviews-ultimate.elfsight.com\/data\/reviews",
+            "per_page": "100",
+            "to": 10
+        }
+    }
+}
