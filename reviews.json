@@ -1,6 +1,4 @@
 {
-    "status": "success",
-    "result": {
         "data": [
             {
                 "id": 36497834832930903,
@@ -122,19 +120,5 @@
                 "language": null,
                 "published_at": 1680445576
             }
-        ],
-        "links": {
-            "first": "http:\/\/service-reviews-ultimate.elfsight.com\/data\/reviews?page_length=100&order=date&page=1",
-            "last": null,
-            "prev": null,
-            "next": null
-        },
-        "meta": {
-            "current_page": 1,
-            "from": 1,
-            "path": "http:\/\/service-reviews-ultimate.elfsight.com\/data\/reviews",
-            "per_page": "100",
-            "to": 10
-        }
+        ]
     }
-}
